@@ -9,4 +9,4 @@ linkedin: https://www.linkedin.com/in/zhiwehu
 github: https://github.com/zhiwehu
 ---
 
-Jeffrey Hu is a full stack developer. He is very good at Python as backend and JavaScript as frontend.He has more than 20 years work experience on software development which used C++, Python, Java and JavaScript. For now he help people to build web/mobile app using React.js and MERN(MongoDB+Express+React+Node.js) stack.
+I'm a full stack developer with about 20 years experience in application development. I'm using Python/JavaScript as backend and JavaScript as frontend mainly. I am proficient in using Django, Express, Node.js, React and related frameworks and technologies. I have rich experience in cloud service such as AWS, Aliyun, Heroku and more. In passed several years I worked as a full time independence developer for lots of customers located all over the world. I helped lots of customers to build awesome apps, for example getleverate, bookinabox, etc. I'm good at dedicated and efficient communication and team work remotely.
