@@ -2,7 +2,7 @@ const projectsData = [
   {
     title: 'RunPython.live',
     description: `RunPython.live is an online Python light IDE for Python beginner. It can be run in browser without downloading or installing Python into your computer. For now it can support the Python 3 standard modules include the Turtle module.`,
-    imgSrc: '/static/images/projects/runpython.live.png',
+    imgSrc: '/static/images/project/runpythonlive_dark.png',
     href: 'https://runpython.live',
   },
   {
