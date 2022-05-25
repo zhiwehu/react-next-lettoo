@@ -1,7 +1,7 @@
 ---
 name: Jeffrey Hu
 avatar: /static/images/jeffrey.png
-occupation: A full stack develooper
+occupation: A full stack developer
 company: ZhixinFuture
 email: zhiwehu@gmail.com
 twitter: https://twitter.com/zhiwehu
